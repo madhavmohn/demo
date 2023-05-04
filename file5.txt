@@ -28,6 +28,6 @@
     $ git pull -v
 
 
-Token: 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
+Token: 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
 
 
